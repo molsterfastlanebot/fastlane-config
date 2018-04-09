@@ -1,0 +1,18 @@
+[
+  {
+    "id": "a25ba32c-71b4-4f4d-b7c0-b6692daa5f1d",
+    "email": "molsterfastlanebot@gmail.com",
+    "password_hash": "$2a$10$1ZGW7a2c4IpigaVhWRZ1YejjdG2Htd1nBEnDH/4FoVVFLOTknTjuy",
+    "provider_credentials": [
+      {
+        "id": "b5599a9f-2e6d-479d-8681-f4fd14a510ab",
+        "email": "molsterfastlanebot@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "iigThurimZWtGsPCE1fGjnBou4P+IybBxch/J6c9bH7K0vzJuYlPsk01LeAC\nVzTu2IgkHBNRqn0MY4Njplbjog==\n"
+      }
+    ]
+  }
+]
